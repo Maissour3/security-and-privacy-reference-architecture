@@ -1,0 +1,10 @@
+site_name: "Security and Privacy Reference Architecture"
+site_description: "Enterprise security and privacy architecture specifications, zero-trust cryptographic boundary modeling, and compliance telemetry standards."
+site_url: https://security-and-privacy-reference-architecture.readthedocs.io/
+theme:
+  name: readthedocs
+
+nav:
+  - "Zero-Trust Architecture Model": index.md
+  - "Hardware Enclaves & Confidential Computing": enclaves.md
+  - "Compliance Auditing & Enterprise Disclosures": telemetry-and-wire-protocols.md
